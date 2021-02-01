@@ -23,3 +23,15 @@ I use Python 3 to do the analysis. Here are the libraries I used in my Jupyter N
 - seattle_airbnb_analysis.ipynb Jupyter notebook with complete analysis, answers to the questions, explanations and visualisations
 
 - listings.csv Original dataset in csv format
+
+### Summary of the Results
+
+Question 1: The most common amenities are the most essentials ones, like: Internet Conection, Heating and Kitchen.
+
+Question 2: Washer/ Dryer, Kitchen and allow pets are the amenities that most attracts the guests for renting.
+
+Question 3: The type of the property, more specifically, properties different than apartments and houses have a great influence on price. Internet/ Wireless Internet also have a good influence.
+
+### Acknowledgments
+
+To all udacity team.
