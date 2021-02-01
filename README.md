@@ -6,7 +6,7 @@ Here is the Medium blog post I have written: https://caiokinupp.medium.com/3-cur
 ### Project Motivation
 This project (Write a Data Science Blog Post) is part of Udacity Data Scientists Nanodegree Program.
 
-I used Seattle Airbnb Dataset for this project. As part of the Airbnb Inside initiative, the dataset describes the listing activities of homestays in Seattle, WA. The orijinal dataset can be found here: https://www.kaggle.com/airbnb/seattle
+I used Seattle Airbnb Dataset for this project. As part of the Airbnb Inside initiative, the dataset describes the listing activities of homestays in Seattle, WA. The original dataset can be found here: https://www.kaggle.com/airbnb/seattle
 
 This project focuses on answering following questions: “What are the most common amenities that are available in Seattle Airbnb dataset?” "What most attracts the guests for renting a property?" “What are the most influential features of the dataset to estimate the price of a listing?”
 
